@@ -57,5 +57,8 @@
     ],
     "Statistics Canada": [
       ["142.206.0.0/16"]
+    ],
+    "Natural Resources Canada": [
+      ["192.67.45.0/24"]
     ]
   }
