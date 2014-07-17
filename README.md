@@ -1,6 +1,4 @@
-# [http://twitter.com/gccaedits](@gccaedits)
-
-## IP address ranges
+# @gccaedits IP address ranges
 
 ### Description
 
