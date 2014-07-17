@@ -54,5 +54,8 @@
     ],
     "Library and Archives Canada": [
       ["142.78.0.0/16"]
+    ],
+    "Statistics Canada": [
+      ["142.206.0.0/16"]
     ]
   }
