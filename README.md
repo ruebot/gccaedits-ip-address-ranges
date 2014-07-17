@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository contains the configurations for the IP ranges used for [http://twitter.com/gccaedits](@gccaedits), and is the new home of the [Gist](https://gist.github.com/ruebot/605426d052168156ba37) file used for community contributions.
+This repository contains the configurations for the IP ranges used for [http://twitter.com/gccaedits](http://twitter.com/gccaedits), and is the new home of the [Gist](https://gist.github.com/ruebot/605426d052168156ba37) file used for community contributions.
 
 The original set of IP address came from [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Blocking_IP_addresses).
 
