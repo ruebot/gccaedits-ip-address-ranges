@@ -22,6 +22,6 @@ Public Domain
 
 Sources used for information on IP ranges came from:
 
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Blocking_IP_addresse)
 * [Hurricane Electric](http://bgp.he.net/)
- 
 * [ARIN](http://whois.arin.net/ui)
