@@ -269,6 +269,12 @@
         "Library and Archives Canada": [
             "142.78.0.0/16"
         ],
+        "Health Canada": [
+        	[
+        		"204.187.49.0",
+        		"204.187.49.255"
+        	]
+        ],
         "Natural Resources Canada": [
             "132.156.4.0/23",
             "132.156.10.0/23",
