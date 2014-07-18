@@ -17,3 +17,11 @@ When you are contributing IP address ranges, please provide a source and/or docu
 ### License
 
 Public Domain
+
+### Sources
+
+Sources used for information on IP ranges came from:
+
+* [Hurricane Electric](http://bgp.he.net/)
+ 
+* [ARIN](http://whois.arin.net/ui)
