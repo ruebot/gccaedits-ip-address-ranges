@@ -14,10 +14,6 @@ Know of any IP address ranges that should be included? You have a couple of opti
 
 When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message.
 
-### License
-
-Public Domain
-
 ### Sources
 
 Sources used for information on IP ranges came from:
@@ -25,3 +21,7 @@ Sources used for information on IP ranges came from:
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Blocking_IP_addresse)
 * [Hurricane Electric](http://bgp.he.net/)
 * [ARIN](http://whois.arin.net/ui)
+
+### License
+
+Public Domain
