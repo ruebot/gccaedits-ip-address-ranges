@@ -102,6 +102,12 @@
         "Canadian Hydrographic Service": [
             "204.187.48.0/24"
         ],
+        "CBC": [
+            [
+                "159.33.0.0",
+                "159.33.255.255"
+            ]
+        ],
         "Correctional Services Canada": [
             "142.191.8.0/21",
             "142.236.0.0/17"
