@@ -12,7 +12,7 @@ The original set of IP address came from [Wikipedia](https://en.wikipedia.org/wi
 
 Know of any IP address ranges that should be included? You have a couple of options to contribute. If you're familiar with Github and the Pull Request process, have at it! If you're not familiar with that process, please create a [New Issue](https://github.com/ruebot/gccaedits-ip-address-ranges/issues/new), and we'll work through the getting your contirbutions included that way.
 
-When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message.
+When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message. Additionally, it is very helpful if each pull request containins only an addition or modification to a single agency.
 
 ### Sources
 
