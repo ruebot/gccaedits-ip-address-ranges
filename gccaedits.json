@@ -102,6 +102,12 @@
         "Canadian Hydrographic Service": [
             "204.187.48.0/24"
         ],
+        "Canadian Space Agency": [
+            "142.74.1.0/24",
+            "142.74.2.0/24",
+            "142.74.3.0/24",
+            "142.74.4.0/24"
+        ],
         "Correctional Services Canada": [
             "142.191.8.0/21",
             "142.236.0.0/17"
@@ -437,12 +443,6 @@
         ],
         "Statistics Canada": [
             "142.206.0.0/16"
-        ],
-        "Canadian Space Agency": [
-            "142.74.1.0/24",
-            "142.74.2.0/24",
-            "142.74.3.0/24",
-            "142.74.4.0/24"
         ],
         "Transport Canada": [
             [
