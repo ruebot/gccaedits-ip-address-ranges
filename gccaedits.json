@@ -111,6 +111,11 @@
         "Canadian Hydrographic Service": [
             "204.187.48.0/24"
         ],
+        "Canadian Museum of Civilization": [
+            [
+                "204.19.14.0/24"
+            ]
+        ],
         "Canadian Space Agency": [
             "142.74.1.0/24",
             "142.74.2.0/24",
