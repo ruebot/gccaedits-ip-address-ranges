@@ -14,6 +14,7 @@ Know of any IP address ranges that should be included? You have a couple of opti
 
 When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message. Additionally, it is very helpful if each pull request containins only an addition or modification to a single agency, and please check to make sure your additions are valid. For example, `python -m json.tool` or `:%!python -m json.tool` in Vim.
 
+No need to contribute RCMP IP ranges, there is already an [rcmp_edits](https://twitter.com/rcmp_edits).
 ### Sources
 
 Sources used for information on IP ranges came from:
