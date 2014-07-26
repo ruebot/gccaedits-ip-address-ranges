@@ -10,11 +10,12 @@ The original set of IP address came from [Wikipedia](https://en.wikipedia.org/wi
 
 ### Contributing
 
-Know of any IP address ranges that should be included, that are already *not* included? You have a couple of options to contribute. If you're familiar with Github and the Pull Request process, have at it! If you're not familiar with that process, please create a [New Issue](https://github.com/ruebot/gccaedits-ip-address-ranges/issues/new), and we'll work through the getting your contirbutions included that way.
+Know of any IP address ranges that should be included, that are already not included? You have a couple of options to contribute. If you're familiar with Github and the Pull Request process, have at it! If you're not familiar with that process, please create a [New Issue](https://github.com/ruebot/gccaedits-ip-address-ranges/issues/new), and we'll work through the getting your contirbutions included that way.
 
-When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message. Additionally, it is very helpful if each pull request containins only an addition or modification to a single agency, and please check to make sure your additions are valid. For example, `python -m json.tool` or `:%!python -m json.tool` in Vim.
+When you are contributing IP address ranges, please provide a source and/or documentation. For instance, including a stable uri to the source in the commit message and/or issue. Additionally, it is very helpful if each pull request containins only an addition or modification to a single agency. Please check to make sure your additions are valid. For example, `python -m json.tool` or `:%!python -m json.tool` in Vim.
 
 No need to contribute RCMP IP ranges, there is already an [rcmp_edits](https://twitter.com/rcmp_edits).
+
 ### Sources
 
 Sources used for information on IP ranges came from:
