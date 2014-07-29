@@ -118,6 +118,12 @@
             "142.74.3.0/24",
             "142.74.4.0/24"
         ],
+	"Communications Security Establishment Canada": [
+	    [
+		"108.174.30.160",
+		"108.174.30.167"
+	    ]
+	],
         "Correctional Services Canada": [
             "142.191.8.0/21",
             "142.236.0.0/17"
