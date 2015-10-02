@@ -1,4 +1,4 @@
-# @gccaedits IP address ranges
+# @gccaedits IP address ranges [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.31733.svg)](http://dx.doi.org/10.5281/zenodo.31733)
 
 ### Description
 
