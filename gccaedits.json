@@ -118,12 +118,12 @@
             "142.74.3.0/24",
             "142.74.4.0/24"
         ],
-	"Communications Security Establishment Canada": [
-	    [
-		"108.174.30.160",
-		"108.174.30.167"
-	    ]
-	],
+        "Communications Security Establishment Canada": [
+            [
+                "108.174.30.160",
+                "108.174.30.167"
+            ]
+        ],
         "Correctional Services Canada": [
             "142.191.8.0/21",
             "142.236.0.0/17"
@@ -431,6 +431,19 @@
         "Library and Archives Canada": [
             "142.78.0.0/16"
         ],
+        "National Research Council (UBC)": [
+            [
+                "206.12.28.0/24"
+            ]
+        ],
+        "National Research Council (UofT)": [
+            [
+                "198.164.43.0/24",
+                "198.164.41.0/24",
+                "198.164.40.0/24",
+                "198.164.42.0/24"
+            ]
+        ],
         "Natural Resources Canada": [
             "132.156.4.0/23",
             "132.156.10.0/23",
@@ -448,19 +461,6 @@
             "192.197.114.0/24",
             "192.197.115.0/24"
         ],
-        "National Research Council (UBC)": [
-            [
-                "206.12.28.0/24"
-            ]
-        ],
-        "National Research Council (UofT)": [
-            [
-                "198.164.43.0/24",
-                "198.164.41.0/24",
-                "198.164.40.0/24",
-                "198.164.42.0/24"
-            ]
-        ],	    
         "Service Canada": [
             [
                 "216.174.155.0",
