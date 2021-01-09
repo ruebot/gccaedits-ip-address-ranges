@@ -21,8 +21,8 @@ No need to contribute RCMP IP ranges, there is already an [rcmp_edits](https://t
 Sources used for information on IP ranges came from:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Blocking_IP_addresses)
-* [Hurricane Electric](http://bgp.he.net/)
-* [ARIN](http://whois.arin.net/ui)
+* [Hurricane Electric](https://bgp.he.net/)
+* [ARIN](https://whois.arin.net/ui)
 
 ### License
 
